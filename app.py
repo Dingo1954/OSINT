@@ -18,7 +18,7 @@ DB_PATH = Path(__file__).resolve().with_name("osint_tools.db")
 
 # --- CSS / farveskema inspireret af Docker Desktop ---
 DOCKER_PRIMARY = "#1b5a83"   # dyb blå
-DOCKER_DARK = "#061b2b"      # mørk blå
+DOCKER_DARK = "#061b2b"      # mørk blå-sort
 DOCKER_ACCENT = "#0684ad"    # kølig cyan
 CARD_BG = "#0a121d"          # mørk kort baggrund
 
